@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Jigme Namgyal and I'm currently majoring in blockchain specialization in Gyalpozhing College of Information Technology in Bhutan. I'm currently working on a DAO project for Bhutan Parliament Voting called GovChain. 
+My name is Jigme Namgyal and I'm currently majoring in blockchain specialization in Gyalpozhing College of Information Technology in Bhutan. I'm currently in my final year of college. 
 
 
 ## 🌐 Socials:
