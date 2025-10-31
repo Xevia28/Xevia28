@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Jigme Namgyal and I am a recent graduate from Gyalpozhing College of Information Technology, Bhutan, holding a Bachelor’s degree in Computer Science with a strong specialization in blockchain development.
+My name is Jigme Namgyal and I am a graduate from Gyalpozhing College of Information Technology, Bhutan, holding a Bachelor’s degree in Computer Science with a strong specialization in blockchain development.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/illia_xevia_28/) 
